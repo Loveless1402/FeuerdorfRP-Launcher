@@ -1,34 +1,10 @@
 {
   "mods": [
     {
-      "filename": "Feuerdorf_1_ELW.zip",
-      "size": 216190588,
-      "sha256": "ee03780cb66db3ca28b9c4711978b4978aac4a8e7e748d5ec9320866ac52fa65",
-      "download_url": "http://46.4.129.30:20721/mods/Feuerdorf_1_ELW.zip"
-    },
-    {
-      "filename": "Feuerdorf_Base.zip",
-      "size": 63949539,
-      "sha256": "6956dfde826c73d4b64c33d2b07e211ff10398ca6e66020d3312bf7ed4c2b459",
-      "download_url": "http://46.4.129.30:20721/mods/Feuerdorf_Base.zip"
-    },
-    {
-      "filename": "Feuerdorf_Handtools.zip",
-      "size": 3559481,
-      "sha256": "9673de7032fb5211651109d6a4ab9e349f9acffd6cee116fe8f1362bb31fb78a",
-      "download_url": "http://46.4.129.30:20721/mods/Feuerdorf_Handtools.zip"
-    },
-    {
-      "filename": "Feuerdorf_Interactive_Control.zip",
-      "size": 954020,
-      "sha256": "42901b7948da222d5237527a4fd4612c222271f4c1ecada2a962b05ab7fa94df",
-      "download_url": "http://46.4.129.30:20721/mods/Feuerdorf_Interactive_Control.zip"
-    },
-    {
-      "filename": "Feuerdorf_Rollcontainer_Pack.zip",
-      "size": 149054352,
-      "sha256": "88ab4cef3a8fe374d10eef6600a8143a747c4b2e04176af3b2ecb77563a99e15",
-      "download_url": "http://46.4.129.30:20721/mods/Feuerdorf_Rollcontainer_Pack.zip"
+      "filename": "FS25_0_TerraFarm.zip",
+      "size": 501150,
+      "sha256": "00ec357edcfa6b2c933a9a17f8af5219ce0bb2db1f24178188561e3a4ffe335f",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_0_TerraFarm.zip"
     },
     {
       "filename": "FS25_0_dlcBoatExtension.zip",
@@ -37,52 +13,16 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_0_dlcBoatExtension.zip"
     },
     {
-      "filename": "FS25_0_TerraFarm.zip",
-      "size": 501150,
-      "sha256": "00ec357edcfa6b2c933a9a17f8af5219ce0bb2db1f24178188561e3a4ffe335f",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_0_TerraFarm.zip"
-    },
-    {
       "filename": "FS25_AB_PackStandalone.zip",
       "size": 116790382,
       "sha256": "47bd11e589fcf2144448dcea71cbb81005d8ddb0cd379afa0b60333d694db59a",
       "download_url": "http://46.4.129.30:20721/mods/FS25_AB_PackStandalone.zip"
     },
     {
-      "filename": "FS25_Access_Light_Barrier_Pack.zip",
-      "size": 4543688,
-      "sha256": "6446d49a75de4a83694448fb729b30dac7ad8674320becde583c1f6646736fab",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_Access_Light_Barrier_Pack.zip"
-    },
-    {
       "filename": "FS25_ADAC_Eurocopter_EC135.zip",
       "size": 154025939,
       "sha256": "28b80ff40ac25615e8e114f30fb1c9cc3293c0130f7f802a77cb59dfd8d1408e",
       "download_url": "http://46.4.129.30:20721/mods/FS25_ADAC_Eurocopter_EC135.zip"
-    },
-    {
-      "filename": "FS25_AddableTriggers.zip",
-      "size": 8617299,
-      "sha256": "fc3d6d09fc8867151b5a5ad0fa9bf8fea4e5df0208e3419329c5326b8c2a00f6",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_AddableTriggers.zip"
-    },
-    {
-      "filename": "FS25_AdditionalFilltypes.zip",
-      "size": 26037312,
-      "sha256": "8eb33e496716ed6b507540b49b8d29137a6e4c74358bff3dff842670711b0901",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_AdditionalFilltypes.zip"
-    },
-    {
-      "filename": "FS25_allTreesPack.zip",
-      "size": 4247310,
-      "sha256": "cf273ac4d1aa0b866725e55fba4438f123a548f3ea1360e7863b81894f1bac47",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_allTreesPack.zip"
-    },
-    {
-      "filename": "FS25_ArmySurplusWorkwearCollection_V1_0_0_4.zip",
-      "size": 175012675,
-      "sha256": "126f00f17468ae8970bbd6040b7040bc64508c821a0197648afaf7f8b3700e03",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_ArmySurplusWorkwearCollection_V1_0_0_4.zip"
     },
     {
       "filename": "FS25_ASM_DynamicDecoAnimals.zip",
@@ -97,28 +37,34 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_ATV_Quad_Bike.zip"
     },
     {
+      "filename": "FS25_Access_Light_Barrier_Pack.zip",
+      "size": 4543688,
+      "sha256": "6446d49a75de4a83694448fb729b30dac7ad8674320becde583c1f6646736fab",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_Access_Light_Barrier_Pack.zip"
+    },
+    {
+      "filename": "FS25_AddableTriggers.zip",
+      "size": 8617299,
+      "sha256": "fc3d6d09fc8867151b5a5ad0fa9bf8fea4e5df0208e3419329c5326b8c2a00f6",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_AddableTriggers.zip"
+    },
+    {
+      "filename": "FS25_AdditionalFilltypes.zip",
+      "size": 26037312,
+      "sha256": "8eb33e496716ed6b507540b49b8d29137a6e4c74358bff3dff842670711b0901",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_AdditionalFilltypes.zip"
+    },
+    {
+      "filename": "FS25_ArmySurplusWorkwearCollection_V1_0_0_4.zip",
+      "size": 175012675,
+      "sha256": "126f00f17468ae8970bbd6040b7040bc64508c821a0197648afaf7f8b3700e03",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_ArmySurplusWorkwearCollection_V1_0_0_4.zip"
+    },
+    {
       "filename": "FS25_Audi_A6_Avant_COM.zip",
       "size": 96840163,
       "sha256": "d421282371d62863c43e7627ef235f9824145e500530aa6de6656ac9eb04f334",
       "download_url": "http://46.4.129.30:20721/mods/FS25_Audi_A6_Avant_COM.zip"
-    },
-    {
-      "filename": "FS25_autoTurnOffTurnLights.zip",
-      "size": 79758,
-      "sha256": "5f77a7edfbc5c8cff4e2b8e4164075fd88b090f90f808e96ef6e9ee5a4ed541e",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_autoTurnOffTurnLights.zip"
-    },
-    {
-      "filename": "FS25_Bauhof.zip",
-      "size": 115594202,
-      "sha256": "0a2cada6f40309a5a992097a06985fcf34033c8ff98f537f104c013a72c75e21",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_Bauhof.zip"
-    },
-    {
-      "filename": "FS25_Baustellenschilder_Pack.zip",
-      "size": 164330953,
-      "sha256": "ec03616e63b45d2cb136b7ad0980caa6ee77ce95df65f0277226da773942d2bf",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_Baustellenschilder_Pack.zip"
     },
     {
       "filename": "FS25_BMW_X3_2018.zip",
@@ -131,6 +77,18 @@
       "size": 128833696,
       "sha256": "e498b83e03c498e3294d028d0284050195e412cb104621c5e971a0fc52f491ce",
       "download_url": "http://46.4.129.30:20721/mods/FS25_BMW_X5M_2019.zip"
+    },
+    {
+      "filename": "FS25_Bauhof.zip",
+      "size": 115594202,
+      "sha256": "0a2cada6f40309a5a992097a06985fcf34033c8ff98f537f104c013a72c75e21",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_Bauhof.zip"
+    },
+    {
+      "filename": "FS25_Baustellenschilder_Pack.zip",
+      "size": 164330953,
+      "sha256": "ec03616e63b45d2cb136b7ad0980caa6ee77ce95df65f0277226da773942d2bf",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_Baustellenschilder_Pack.zip"
     },
     {
       "filename": "FS25_CAT_309_CR.zip",
@@ -163,12 +121,6 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_ColoredWeatherIcons.zip"
     },
     {
-      "filename": "FS25_cone.zip",
-      "size": 474552,
-      "sha256": "08905077a80881336f538033f9f7cc2a1308abd437aee19c7d88f090fb8f1c7d",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_cone.zip"
-    },
-    {
       "filename": "FS25_CountryFlagsPack.zip",
       "size": 1066055,
       "sha256": "7b4250369d512f28097bbe23d477b345643f6ba96d654dd90d178fa13b58386b",
@@ -179,6 +131,12 @@
       "size": 144502,
       "sha256": "4ae3ed589afb22d831684bbe98259e8915aff5b2982d4b1c6b60dd532ac81d88",
       "download_url": "http://46.4.129.30:20721/mods/FS25_CutOpenBale.zip"
+    },
+    {
+      "filename": "FS25_DRF_Eurocopter_EC135.zip",
+      "size": 155586905,
+      "sha256": "eb69612e160166b1177cb9c3704135cdded72034e2bdf8c9c47794a54be541c2",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_DRF_Eurocopter_EC135.zip"
     },
     {
       "filename": "FS25_DarkerNights.zip",
@@ -199,16 +157,10 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_DisableProfanityFilter.zip"
     },
     {
-      "filename": "FS25_DRF_Eurocopter_EC135.zip",
-      "size": 155586905,
-      "sha256": "eb69612e160166b1177cb9c3704135cdded72034e2bdf8c9c47794a54be541c2",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_DRF_Eurocopter_EC135.zip"
-    },
-    {
-      "filename": "FS25_dron_agri.zip",
-      "size": 17407397,
-      "sha256": "4360b23a140c86e5e9522d6200839b671f299154c792a9bf461373b7c1675825",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_dron_agri.zip"
+      "filename": "FS25_ELW2_atego.zip",
+      "size": 259385158,
+      "sha256": "1c59d27bdf885052158eeb6870d55fdf9f11670ce43b9163f72017704a79c423",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_ELW2_atego.zip"
     },
     {
       "filename": "FS25_EasyDevControls.zip",
@@ -217,28 +169,22 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_EasyDevControls.zip"
     },
     {
-      "filename": "FS25_ELW2_atego.zip",
-      "size": 259385158,
-      "sha256": "1c59d27bdf885052158eeb6870d55fdf9f11670ce43b9163f72017704a79c423",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_ELW2_atego.zip"
-    },
-    {
       "filename": "FS25_ExcavatorAttachments.zip",
       "size": 34704596,
       "sha256": "e61030be83790fbc7a01c076e1fccc87873b39ffb3fc8f7f12ee2e81e37d4b65",
       "download_url": "http://46.4.129.30:20721/mods/FS25_ExcavatorAttachments.zip"
     },
     {
-      "filename": "FS25_exhaustExtension.zip",
-      "size": 885422,
-      "sha256": "f1595a84468ee621af4c6cb414ec2e3b0b51e1c122daca0775cfc52ac291c1da",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_exhaustExtension.zip"
+      "filename": "FS25_FH16_Fire.zip",
+      "size": 50170803,
+      "sha256": "c3996458ab71691c1c2de2f9d091c6d67827e8b2876526e468fbb3d3c0711c05",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_FH16_Fire.zip"
     },
     {
-      "filename": "FS25_extendedVehicle.zip",
-      "size": 137041,
-      "sha256": "79a6c3acfbfcaf3441250f1e0ac34fbec1616d7d6b720a1b5e35b9c8c8a88d54",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_extendedVehicle.zip"
+      "filename": "FS25_FST99Service.zip",
+      "size": 6165618,
+      "sha256": "5d44e159fb7ab73afa6b6910f41f92a975ed614e315368cc79e870bc4b09c503",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_FST99Service.zip"
     },
     {
       "filename": "FS25_Fahrtec_RTW_COM.zip",
@@ -283,52 +229,10 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_Feuerwehrmelder.zip"
     },
     {
-      "filename": "FS25_FH16_Fire.zip",
-      "size": 50170803,
-      "sha256": "c3996458ab71691c1c2de2f9d091c6d67827e8b2876526e468fbb3d3c0711c05",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_FH16_Fire.zip"
-    },
-    {
       "filename": "FS25_FireSiren.zip",
       "size": 1937942,
       "sha256": "f750c6423159c6dbd2677d53321f48d1c78ce2c19b52db8724a0a3824c7d5400",
       "download_url": "http://46.4.129.30:20721/mods/FS25_FireSiren.zip"
-    },
-    {
-      "filename": "FS25_fireworks.zip",
-      "size": 233158,
-      "sha256": "e3789be7513da664116e482f22bcfd89176d18fa9853085d6c025a259e39375e",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_fireworks.zip"
-    },
-    {
-      "filename": "FS25_flourproduction.zip",
-      "size": 19165841,
-      "sha256": "db20f05d1d67580fd6d36083c900a9a00a2c40b4ef86c3fe390f80c832dcd5e0",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_flourproduction.zip"
-    },
-    {
-      "filename": "FS25_FST99Service.zip",
-      "size": 6165618,
-      "sha256": "5d44e159fb7ab73afa6b6910f41f92a975ed614e315368cc79e870bc4b09c503",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_FST99Service.zip"
-    },
-    {
-      "filename": "FS25_fuelLevels.zip",
-      "size": 99607,
-      "sha256": "7997366650fcbf321acbadbc6888c45a3512a95699596ba2ca061ccbf3c0945c",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_fuelLevels.zip"
-    },
-    {
-      "filename": "FS25_funktionswesten.zip",
-      "size": 20578097,
-      "sha256": "371cac075189ada60934293bba18066a54209238de238152681f779dc06f409d",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_funktionswesten.zip"
-    },
-    {
-      "filename": "FS25_Gardena_Besen.zip",
-      "size": 123985,
-      "sha256": "3080f917f8dde828d9430ce1916942e7f6276ec7f87d57b7ec79f69ce66271ac",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_Gardena_Besen.zip"
     },
     {
       "filename": "FS25_GDR_Fire_Brigade_Axe.zip",
@@ -337,22 +241,10 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_GDR_Fire_Brigade_Axe.zip"
     },
     {
-      "filename": "FS25_GermanRoadSignPack.zip",
-      "size": 4875750,
-      "sha256": "ae5b3376040c9848205ce4caa49368e657ed1d2b8004dde95d41676478084e49",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_GermanRoadSignPack.zip"
-    },
-    {
-      "filename": "FS25_germanVillageFireDepartment.zip",
-      "size": 31199718,
-      "sha256": "747a3cb7429869df19ad29b55fd2d28e352a6eb4e1195752e6f1232dd1c10155",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_germanVillageFireDepartment.zip"
-    },
-    {
-      "filename": "FS25_germanVillagePoliceStation.zip",
-      "size": 30599672,
-      "sha256": "66130d7362e46c5f89be3decbc20a58bbcb32482f4b73b8810d56bd21a9960ca",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_germanVillagePoliceStation.zip"
+      "filename": "FS25_GWL_TGL_2021_THW.zip",
+      "size": 51006093,
+      "sha256": "1c227c483eafe5705430c523ad0cbacbeda248ac0502416a1c7b1d4522a2f26c",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_GWL_TGL_2021_THW.zip"
     },
     {
       "filename": "FS25_GW_Dekon_P.zip",
@@ -361,16 +253,16 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_GW_Dekon_P.zip"
     },
     {
-      "filename": "FS25_GWL_TGL_2021_THW.zip",
-      "size": 51006093,
-      "sha256": "1c227c483eafe5705430c523ad0cbacbeda248ac0502416a1c7b1d4522a2f26c",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_GWL_TGL_2021_THW.zip"
+      "filename": "FS25_Gardena_Besen.zip",
+      "size": 123985,
+      "sha256": "3080f917f8dde828d9430ce1916942e7f6276ec7f87d57b7ec79f69ce66271ac",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_Gardena_Besen.zip"
     },
     {
-      "filename": "FS25_Helipad.zip",
-      "size": 10460943,
-      "sha256": "2e8dd3518128b90b0bad5bd37b1ae6ea8ff63cb5658c64e53c49fb23595cff6c",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_Helipad.zip"
+      "filename": "FS25_GermanRoadSignPack.zip",
+      "size": 4875750,
+      "sha256": "ae5b3376040c9848205ce4caa49368e657ed1d2b8004dde95d41676478084e49",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_GermanRoadSignPack.zip"
     },
     {
       "filename": "FS25_HLF10_Ravensberg.zip",
@@ -379,28 +271,16 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_HLF10_Ravensberg.zip"
     },
     {
+      "filename": "FS25_Helipad.zip",
+      "size": 10460943,
+      "sha256": "2e8dd3518128b90b0bad5bd37b1ae6ea8ff63cb5658c64e53c49fb23595cff6c",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_Helipad.zip"
+    },
+    {
       "filename": "FS25_Invoices.zip",
       "size": 278858,
       "sha256": "08930335ccfde1227ab4935bd98187c8f2d1c405b1cc341b4c13db74a3e63bfb",
       "download_url": "http://46.4.129.30:20721/mods/FS25_Invoices.zip"
-    },
-    {
-      "filename": "FS25_itRunnerHD_pack.zip",
-      "size": 25351943,
-      "sha256": "f5132a2d79940db16f9472fd530229b6cc9758d4b691cd509cdff7a2abaf93e1",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_itRunnerHD_pack.zip"
-    },
-    {
-      "filename": "FS25_itRunnerPack.zip",
-      "size": 18494827,
-      "sha256": "84e999fb4964717d2c5179914f196880ff073a5cc751a803b3ee0cd4225d4d9d",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_itRunnerPack.zip"
-    },
-    {
-      "filename": "FS25_itRunnerPack_FMTV.zip",
-      "size": 18272948,
-      "sha256": "238e1950f6567abacf1df3baf56f5164b7e33eeb49c5addc76532a509cdc0d81",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_itRunnerPack_FMTV.zip"
     },
     {
       "filename": "FS25_KATO.zip",
@@ -409,16 +289,10 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_KATO.zip"
     },
     {
-      "filename": "FS25_keepMeAdmin.zip",
-      "size": 104377,
-      "sha256": "a414a5f3c70098bfe285e762ffaa730e7a2f09e121473f72068ffe98518ad93d",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_keepMeAdmin.zip"
-    },
-    {
-      "filename": "FS25_largeWorkshop.zip",
-      "size": 11483129,
-      "sha256": "4115e883c713c22f3a7085224a35ef9cc4bda840f562144910b63fab63c0ff9f",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_largeWorkshop.zip"
+      "filename": "FS25_LiebherrR960.zip",
+      "size": 36184367,
+      "sha256": "3cd92e2b6248f512a5802af0cb7874a14031ed4139ccda1e2fb8077141be0749",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_LiebherrR960.zip"
     },
     {
       "filename": "FS25_Liebherr_LTM1450_FWK.zip",
@@ -433,46 +307,10 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_Liebherr_LTM1450_THW.zip"
     },
     {
-      "filename": "FS25_LiebherrR960.zip",
-      "size": 36184367,
-      "sha256": "3cd92e2b6248f512a5802af0cb7874a14031ed4139ccda1e2fb8077141be0749",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_LiebherrR960.zip"
-    },
-    {
-      "filename": "FS25_lizard_l3000.zip",
-      "size": 315380,
-      "sha256": "82f33a5c0715d15bd9e88d7857f7e11578167692f7cec6451da4d321a90e8bce",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_lizard_l3000.zip"
-    },
-    {
       "filename": "FS25_Lizard_ZL501.zip",
       "size": 19466204,
       "sha256": "9dd43cab4dd384b28423761670ce9e8612e3875c22d88e91cbfe96dc0cb73c37",
       "download_url": "http://46.4.129.30:20721/mods/FS25_Lizard_ZL501.zip"
-    },
-    {
-      "filename": "FS25_lizardHLF20.zip",
-      "size": 19706341,
-      "sha256": "43d43075fecac48223c3d28752cae118fb828a24254fbf1ced7d9abf8acc0ac9",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_lizardHLF20.zip"
-    },
-    {
-      "filename": "FS25_lizardUnifireLF8.zip",
-      "size": 24127134,
-      "sha256": "e1709495e2e75d8a37be66a63d1301ff3c0c93f943347b449d532051405f4569",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_lizardUnifireLF8.zip"
-    },
-    {
-      "filename": "FS25_lizardUnifireRW2.zip",
-      "size": 22939171,
-      "sha256": "4c92c36d675ec3941a7383744d39522808607935e418b86e53a58c84ba763aa4",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_lizardUnifireRW2.zip"
-    },
-    {
-      "filename": "FS25_logisticCenter.zip",
-      "size": 24833507,
-      "sha256": "2696e0748788ba453f19b704c5f2fc7fdc1b1e2746219eed3f8d34cc9f215a88",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_logisticCenter.zip"
     },
     {
       "filename": "FS25_LooseLoad.zip",
@@ -493,12 +331,6 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_LuminousCandles.zip"
     },
     {
-      "filename": "FS25_Magirus_KLF.zip",
-      "size": 128895886,
-      "sha256": "e143856a9553b18570b0a96bf5bedcf5bb8ddd6ccb58f627dc4f22600177e036",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_Magirus_KLF.zip"
-    },
-    {
       "filename": "FS25_MAN_L2000_HLF.zip",
       "size": 37165338,
       "sha256": "699f4b0374b69cb4a67e934bf333197c608d5db8b538d815c038951dcd3cc643",
@@ -512,8 +344,8 @@
     },
     {
       "filename": "FS25_MAN_TGE_TSF_W.zip",
-      "size": 29424342,
-      "sha256": "01fa55c5ad1ad7c1c2031655d30f6204c2a420d1b3b2957211daecc166f83ccb",
+      "size": 29412194,
+      "sha256": "dd8edbc11f2032bbd44ff99a797180aead59f830a48fa1b50288e8834010a882",
       "download_url": "http://46.4.129.30:20721/mods/FS25_MAN_TGE_TSF_W.zip"
     },
     {
@@ -530,8 +362,8 @@
     },
     {
       "filename": "FS25_MAN_TGS_TG3_Trucks.zip",
-      "size": 39976034,
-      "sha256": "7880623452641d50f7662eea36965ea12e84ed89f025c9668cab6500c2525241",
+      "size": 40000338,
+      "sha256": "f62b624f07c199ad087ccd37a09aa36358c38616fa1ffaaf0b23f781fdb46343",
       "download_url": "http://46.4.129.30:20721/mods/FS25_MAN_TGS_TG3_Trucks.zip"
     },
     {
@@ -547,6 +379,24 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_MAN_TGX_Semi_Pack.zip"
     },
     {
+      "filename": "FS25_MB_Sprinter_2014.zip",
+      "size": 141008614,
+      "sha256": "b9f2877d7de2f078cd5a28e234289c8d95cbff35be18d5b8a5d7e0094708e22f",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_MB_Sprinter_2014.zip"
+    },
+    {
+      "filename": "FS25_MM_Salzstreuer_6x6.zip",
+      "size": 15068321,
+      "sha256": "034d692d7367ae8734b3c7fe228083f72a44dafab228b1ec8a476d3fa2c6a4ad",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_MM_Salzstreuer_6x6.zip"
+    },
+    {
+      "filename": "FS25_Magirus_KLF.zip",
+      "size": 128895886,
+      "sha256": "e143856a9553b18570b0a96bf5bedcf5bb8ddd6ccb58f627dc4f22600177e036",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_Magirus_KLF.zip"
+    },
+    {
       "filename": "FS25_ManualPaint.zip",
       "size": 864700,
       "sha256": "d63e1a941f0cea0551deec432ec2f6f5cf4106e683d29f14e477155174d902a2",
@@ -559,16 +409,10 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_MapObjectsHider.zip"
     },
     {
-      "filename": "FS25_maxDensityHeightTypesByMap.zip",
-      "size": 84427,
-      "sha256": "de5cf47b378d7de78d643512cfd74a1863050c19abcca8146493b580ce47c9c6",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_maxDensityHeightTypesByMap.zip"
-    },
-    {
-      "filename": "FS25_MB_Sprinter_2014.zip",
-      "size": 141008614,
-      "sha256": "b9f2877d7de2f078cd5a28e234289c8d95cbff35be18d5b8a5d7e0094708e22f",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_MB_Sprinter_2014.zip"
+      "filename": "FS25_MercedesMP3.zip",
+      "size": 110470303,
+      "sha256": "00ac4e4fbaee72de2f8aa835b7a9c8721ef41bb704ef97badebd5e5aaed435f6",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_MercedesMP3.zip"
     },
     {
       "filename": "FS25_Mercedes_Atego_Rosenbauer_ET.zip",
@@ -578,8 +422,8 @@
     },
     {
       "filename": "FS25_Mercedes_Atego_Turntable_Ladder.zip",
-      "size": 28477704,
-      "sha256": "4a0c401868864e8dfadc65a4f811f761ba00c806888a8157c718dd8951bfe4ca",
+      "size": 28448477,
+      "sha256": "60f27a14b78f7b91ebdd97a343fa55e1a9a9761df96afc8fa4ab0eee09e157ff",
       "download_url": "http://46.4.129.30:20721/mods/FS25_Mercedes_Atego_Turntable_Ladder.zip"
     },
     {
@@ -602,8 +446,8 @@
     },
     {
       "filename": "FS25_Mercedes_Logistic_Vehicle.zip",
-      "size": 30915352,
-      "sha256": "f1841a546de57d77b7f9b2d82f3c78831e4202f04bd806e8487514c311296707",
+      "size": 30926236,
+      "sha256": "7819bd5cb7299f274266a9e49e0f30261b0010011e5d14d3fd9d954d53d4a6d7",
       "download_url": "http://46.4.129.30:20721/mods/FS25_Mercedes_Logistic_Vehicle.zip"
     },
     {
@@ -614,15 +458,9 @@
     },
     {
       "filename": "FS25_Mercedes_Unimog_TLF_3000.zip",
-      "size": 24363398,
-      "sha256": "8420f7d2892c37c75a185b1ad6d741255682d9d208c498936e56abc84a2d9cfa",
+      "size": 24252468,
+      "sha256": "a074cf7beb59a3765c8ca76162af9ae30817272380a29ec829c2579a7364fef4",
       "download_url": "http://46.4.129.30:20721/mods/FS25_Mercedes_Unimog_TLF_3000.zip"
-    },
-    {
-      "filename": "FS25_MercedesMP3.zip",
-      "size": 110470303,
-      "sha256": "00ac4e4fbaee72de2f8aa835b7a9c8721ef41bb704ef97badebd5e5aaed435f6",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_MercedesMP3.zip"
     },
     {
       "filename": "FS25_Mittelberg.zip",
@@ -637,46 +475,10 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_Mittelberg_Placeables.zip"
     },
     {
-      "filename": "FS25_MM_Salzstreuer_6x6.zip",
-      "size": 15068321,
-      "sha256": "034d692d7367ae8734b3c7fe228083f72a44dafab228b1ec8a476d3fa2c6a4ad",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_MM_Salzstreuer_6x6.zip"
-    },
-    {
       "filename": "FS25_MobileServiceKit.zip",
       "size": 235681,
       "sha256": "e69ae974db1d2715f173f874e28b531292432122ccf95c978e66cdb87d0621b1",
       "download_url": "http://46.4.129.30:20721/mods/FS25_MobileServiceKit.zip"
-    },
-    {
-      "filename": "FS25_modernHouseSet.zip",
-      "size": 159382580,
-      "sha256": "4a4bc259895ef7f806041bd94961e3b05adc75700830824288a6f486b80cb451",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_modernHouseSet.zip"
-    },
-    {
-      "filename": "FS25_more_tree.zip",
-      "size": 124662,
-      "sha256": "a28819d946532124a7d93cf73b6641f99d0ea05e8722d424f5bef4a1766d4aa3",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_more_tree.zip"
-    },
-    {
-      "filename": "FS25_moreFarms.zip",
-      "size": 198454,
-      "sha256": "dd286d1dfbf88efc39e9a6320dbc584ce7cddabf8f227a0989ffa5f1d328609f",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_moreFarms.zip"
-    },
-    {
-      "filename": "FS25_moreMotorSounds.zip",
-      "size": 135402054,
-      "sha256": "5c0bc5e3e3187ddd2efcb36eb673ae85e598f106662ac20d0d023e01d4a36a6f",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_moreMotorSounds.zip"
-    },
-    {
-      "filename": "FS25_moveableMirrors.zip",
-      "size": 97817,
-      "sha256": "279551cc9c6043150c2ea6a726062e786d03acaeace09ae0b75bc8a41ba76dc2",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_moveableMirrors.zip"
     },
     {
       "filename": "FS25_MovePlaceables.zip",
@@ -701,12 +503,6 @@
       "size": 9156809,
       "sha256": "0571fc77ff0cef7756f4eee1ab419740c82c83e3475999396d8d2d04b678ea9f",
       "download_url": "http://46.4.129.30:20721/mods/FS25_Multifunctional_Firefighter_Trailer.zip"
-    },
-    {
-      "filename": "FS25_naturalWaterRiversAndPondsPack.zip",
-      "size": 2368580,
-      "sha256": "1ae8d8a477e84b8a835672a6d50dc745454b0ba2b51f3766798e6befa303c8a8",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_naturalWaterRiversAndPondsPack.zip"
     },
     {
       "filename": "FS25_NoCredit.zip",
@@ -739,16 +535,10 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_Parking_Spaces.zip"
     },
     {
-      "filename": "FS25_partyTent_Sebimodding.zip",
-      "size": 7159710,
-      "sha256": "2bdff94d743138e1b079e9f3592881e94b40dd75d3329f13ff74270cd935c609",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_partyTent_Sebimodding.zip"
-    },
-    {
-      "filename": "FS25_peoplepack.zip",
-      "size": 171987579,
-      "sha256": "34ae2c320fc350cc024b6e18fef761b7a19f818a9e90fc2736ca5f37e27efef9",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_peoplepack.zip"
+      "filename": "FS25_PlaceTerraformPaintAnywhere.zip",
+      "size": 110789,
+      "sha256": "858d37cb683b178cc83bbb2ccb8422ee91247e77ae7ccd009f5cf01469ec8714",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_PlaceTerraformPaintAnywhere.zip"
     },
     {
       "filename": "FS25_PlaceableText.zip",
@@ -757,22 +547,16 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_PlaceableText.zip"
     },
     {
-      "filename": "fs25_placeabletreepack.zip",
-      "size": 56767582,
-      "sha256": "1e615bcee7e981c7ada6db935ce4d0363547bb32002d663d944ce027e256c7a8",
-      "download_url": "http://46.4.129.30:20721/mods/fs25_placeabletreepack.zip"
-    },
-    {
-      "filename": "FS25_PlaceTerraformPaintAnywhere.zip",
-      "size": 110789,
-      "sha256": "858d37cb683b178cc83bbb2ccb8422ee91247e77ae7ccd009f5cf01469ec8714",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_PlaceTerraformPaintAnywhere.zip"
-    },
-    {
       "filename": "FS25_Production_Points_Pack.zip",
       "size": 115155903,
       "sha256": "f22146305cd5883b21acfa173e177299c1fcdef6d9c68b834e9c5ec893435fef",
       "download_url": "http://46.4.129.30:20721/mods/FS25_Production_Points_Pack.zip"
+    },
+    {
+      "filename": "FS25_RP_People.zip",
+      "size": 130009523,
+      "sha256": "a35bff3522f43bea29a2a2b36dfb6760411fb284bde8db8847029d9ccaed3dfe",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_RP_People.zip"
     },
     {
       "filename": "FS25_RandomBeaconLightSpeed.zip",
@@ -781,28 +565,10 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_RandomBeaconLightSpeed.zip"
     },
     {
-      "filename": "FS25_realClock.zip",
-      "size": 85330,
-      "sha256": "645d347aa61c238aa48d113b8cebc825b63a0369bdeb1094c6405d3c78dbb127",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_realClock.zip"
-    },
-    {
-      "filename": "FS25_realGPS.zip",
-      "size": 788605,
-      "sha256": "32993034e5433ad6324fb33b63e20c49f90590a21474264d8478e961d9523d8d",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_realGPS.zip"
-    },
-    {
       "filename": "FS25_RealIgnition.zip",
       "size": 101604,
       "sha256": "1d1ec75e97ef16d1c15b48dbcf262d231ecf1a473d7ee71ed08a847460eaf2b3",
       "download_url": "http://46.4.129.30:20721/mods/FS25_RealIgnition.zip"
-    },
-    {
-      "filename": "FS25_RealisticDamage.zip",
-      "size": 142116,
-      "sha256": "f1814e87536ec249f0b1fab5016c946ab812cf3a2b5333297305fe2bf24a052d",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_RealisticDamage.zip"
     },
     {
       "filename": "FS25_RealMower.zip",
@@ -817,10 +583,10 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_RealTimeSync.zip"
     },
     {
-      "filename": "FS25_rememberPositions.zip",
-      "size": 72605,
-      "sha256": "727a9345c94fa6f7ec0507c8f069d47e41195e01dda74f3cdb109d97b05908b6",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_rememberPositions.zip"
+      "filename": "FS25_RealisticDamage.zip",
+      "size": 142116,
+      "sha256": "f1814e87536ec249f0b1fab5016c946ab812cf3a2b5333297305fe2bf24a052d",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_RealisticDamage.zip"
     },
     {
       "filename": "FS25_RenaultK480_6x4.zip",
@@ -841,16 +607,16 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_RoadBarrier.zip"
     },
     {
-      "filename": "FS25_RoaderSIMModding_Category.zip",
-      "size": 17304,
-      "sha256": "469645017d291e3a8487108154c383bae605458f70a3378e320a52ddf7d8fc79",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_RoaderSIMModding_Category.zip"
-    },
-    {
       "filename": "FS25_RoadKit.zip",
       "size": 1486679,
       "sha256": "55b3ed0408777b7b775c374582e3d19c628f2981ffd383e1c1c8a2d5067811be",
       "download_url": "http://46.4.129.30:20721/mods/FS25_RoadKit.zip"
+    },
+    {
+      "filename": "FS25_RoaderSIMModding_Category.zip",
+      "size": 17304,
+      "sha256": "469645017d291e3a8487108154c383bae605458f70a3378e320a52ddf7d8fc79",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_RoaderSIMModding_Category.zip"
     },
     {
       "filename": "FS25_Robur_SW2000.zip",
@@ -865,10 +631,10 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_Rosenbauer_RT.zip"
     },
     {
-      "filename": "FS25_RP_People.zip",
-      "size": 130009523,
-      "sha256": "a35bff3522f43bea29a2a2b36dfb6760411fb284bde8db8847029d9ccaed3dfe",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_RP_People.zip"
+      "filename": "FS25_SPM_Metz_FGL_LF16.zip",
+      "size": 149412392,
+      "sha256": "f3d5ebaef751caa739b130dce87a4b1d83b796e0b5bc834e159b77928943abe7",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_SPM_Metz_FGL_LF16.zip"
     },
     {
       "filename": "FS25_Sawdust_Only.zip",
@@ -889,18 +655,6 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_SelfFixAndRepaint.zip"
     },
     {
-      "filename": "FS25_Skoda_Kodiaq.zip",
-      "size": 19752693,
-      "sha256": "66180e5ed9d8cf925fd9bc93a3bd2dbef9944400bac76e27c4a0767b2db8cc58",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_Skoda_Kodiaq.zip"
-    },
-    {
-      "filename": "FS25_Skoda_Octavia.zip",
-      "size": 20388152,
-      "sha256": "71323487b3b01ea567e6fb6f6c9351f52d70d593d119e174d4a2acba08a04e86",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_Skoda_Octavia.zip"
-    },
-    {
       "filename": "FS25_SkodaEinsatzleiter.zip",
       "size": 25106916,
       "sha256": "2c08adab52d24eb32097ec807357a055d43b3467b29d9b1e5ed864484ebf4e74",
@@ -919,28 +673,22 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_SkodaKodiaq_RS_Plus.zip"
     },
     {
+      "filename": "FS25_Skoda_Kodiaq.zip",
+      "size": 19752693,
+      "sha256": "66180e5ed9d8cf925fd9bc93a3bd2dbef9944400bac76e27c4a0767b2db8cc58",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_Skoda_Kodiaq.zip"
+    },
+    {
+      "filename": "FS25_Skoda_Octavia.zip",
+      "size": 20388152,
+      "sha256": "71323487b3b01ea567e6fb6f6c9351f52d70d593d119e174d4a2acba08a04e86",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_Skoda_Octavia.zip"
+    },
+    {
       "filename": "FS25_SmallBiogas.zip",
       "size": 15549083,
       "sha256": "eaaaaac0116f24e48fb166330ec42cf87c6493cf7453cb5631024d346a0ccd62",
       "download_url": "http://46.4.129.30:20721/mods/FS25_SmallBiogas.zip"
-    },
-    {
-      "filename": "FS25_smallGermanFireDepartment.zip",
-      "size": 27652726,
-      "sha256": "43b07dc903bc06d2f1132ac3d805de94d72495f907eb8aa2bf20f759a7b81c9a",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_smallGermanFireDepartment.zip"
-    },
-    {
-      "filename": "FS25_soundExpansionMP.zip",
-      "size": 110276,
-      "sha256": "51c428cb12d975ee8b7cb555eea4d142b81b0574bc89de63e13c27999b0ca8f4",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_soundExpansionMP.zip"
-    },
-    {
-      "filename": "FS25_SPM_Metz_FGL_LF16.zip",
-      "size": 149412392,
-      "sha256": "f3d5ebaef751caa739b130dce87a4b1d83b796e0b5bc834e159b77928943abe7",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_SPM_Metz_FGL_LF16.zip"
     },
     {
       "filename": "FS25_Staff_Hose.zip",
@@ -967,12 +715,6 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_Stanis_Feuerwehr.zip"
     },
     {
-      "filename": "FS25_strobe_light.zip",
-      "size": 426976,
-      "sha256": "598ffd75cf23872b4b85c6d3f3477b266ed10e7508a458520a842e98e61aeb0d",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_strobe_light.zip"
-    },
-    {
       "filename": "FS25_Survivor_R.zip",
       "size": 47814817,
       "sha256": "324b25b4e11b4c542e0d705898169083ff007cf2d4d0891619eef55807992572",
@@ -985,16 +727,16 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_TGS_TULF.zip"
     },
     {
-      "filename": "FS25_thunderstorm.zip",
-      "size": 4410984,
-      "sha256": "036f5c475bb93c797a484c351fadbd90f94bbfb256155995f1ffd8982401c4ff",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_thunderstorm.zip"
-    },
-    {
       "filename": "FS25_THW_304L.zip",
       "size": 32871566,
       "sha256": "faee1d9b02479f68ddd0e83b397c404d34efb35cabac9fbdadd5498dd32ba3e2",
       "download_url": "http://46.4.129.30:20721/mods/FS25_THW_304L.zip"
+    },
+    {
+      "filename": "FS25_TShirt_Einsatz.zip",
+      "size": 3347600,
+      "sha256": "f39c3c0e9875faa429eb13d8ab3040113763245b42bd0f8fe1e4531e658be475",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_TShirt_Einsatz.zip"
     },
     {
       "filename": "FS25_TimeFastForward.zip",
@@ -1009,22 +751,28 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_TipAnywhere.zip"
     },
     {
-      "filename": "FS25_trafficSafetyTrailer.zip",
-      "size": 7292897,
-      "sha256": "7bd2f88e5dda787b73a9de54f662c29d1e1a6c083fb484de8603845ff595dff2",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_trafficSafetyTrailer.zip"
-    },
-    {
       "filename": "FS25_TransferOwnership.zip",
       "size": 832183,
       "sha256": "0152efac15ec843f4e16646ab53500ef3954e95cd0323a7520c3d5e390e5bd76",
       "download_url": "http://46.4.129.30:20721/mods/FS25_TransferOwnership.zip"
     },
     {
-      "filename": "FS25_TShirt_Einsatz.zip",
-      "size": 3347600,
-      "sha256": "f39c3c0e9875faa429eb13d8ab3040113763245b42bd0f8fe1e4531e658be475",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_TShirt_Einsatz.zip"
+      "filename": "FS25_VW_T4_com.zip",
+      "size": 76706360,
+      "sha256": "47b276fd2c826626186b682f8d4c481b513085ff4119f7b1ba9a983cd00e1f03",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_VW_T4_com.zip"
+    },
+    {
+      "filename": "FS25_VW_T6_Multivan_2016.zip",
+      "size": 131954546,
+      "sha256": "665e47ee7795707465d9fdb40bdfc69dbd665de1d6ce3ca4501ec5169df3636b",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_VW_T6_Multivan_2016.zip"
+    },
+    {
+      "filename": "FS25_VW_T6_NEF_2016.zip",
+      "size": 133072407,
+      "sha256": "5a990f083e64861664cd5addb18d13c5f1fe903049775bbec42ae156268fd5f4",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_VW_T6_NEF_2016.zip"
     },
     {
       "filename": "FS25_VehicleMileage.zip",
@@ -1057,34 +805,10 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_VolvoXC90_Facelift.zip"
     },
     {
-      "filename": "FS25_VW_T4_com.zip",
-      "size": 76706360,
-      "sha256": "47b276fd2c826626186b682f8d4c481b513085ff4119f7b1ba9a983cd00e1f03",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_VW_T4_com.zip"
-    },
-    {
-      "filename": "FS25_VW_T6_Multivan_2016.zip",
-      "size": 131954546,
-      "sha256": "665e47ee7795707465d9fdb40bdfc69dbd665de1d6ce3ca4501ec5169df3636b",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_VW_T6_Multivan_2016.zip"
-    },
-    {
-      "filename": "FS25_VW_T6_NEF_2016.zip",
-      "size": 133072407,
-      "sha256": "5a990f083e64861664cd5addb18d13c5f1fe903049775bbec42ae156268fd5f4",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_VW_T6_NEF_2016.zip"
-    },
-    {
       "filename": "FS25_WardrobeClothingAddon_BMP.zip",
       "size": 69504408,
       "sha256": "5bbdbe5a969e7cd9c7279241c4bae6f29cbb6b02eb14ad9ac05bf01c777eb163",
       "download_url": "http://46.4.129.30:20721/mods/FS25_WardrobeClothingAddon_BMP.zip"
-    },
-    {
-      "filename": "FS25_westen_Staff.zip",
-      "size": 13577575,
-      "sha256": "b74a672542a04ea30239111fb45cb87adb0cc43ce560cadc428df2aa3e743ff5",
-      "download_url": "http://46.4.129.30:20721/mods/FS25_westen_Staff.zip"
     },
     {
       "filename": "FS25_Ziegler_RW_TG3_LMS.zip",
@@ -1105,10 +829,280 @@
       "download_url": "http://46.4.129.30:20721/mods/FS25_Ziegler_TLF4000_MAN_TG3_COM_THW.zip"
     },
     {
+      "filename": "FS25_allTreesPack.zip",
+      "size": 4247310,
+      "sha256": "cf273ac4d1aa0b866725e55fba4438f123a548f3ea1360e7863b81894f1bac47",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_allTreesPack.zip"
+    },
+    {
+      "filename": "FS25_autoTurnOffTurnLights.zip",
+      "size": 79758,
+      "sha256": "5f77a7edfbc5c8cff4e2b8e4164075fd88b090f90f808e96ef6e9ee5a4ed541e",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_autoTurnOffTurnLights.zip"
+    },
+    {
+      "filename": "FS25_cone.zip",
+      "size": 474552,
+      "sha256": "08905077a80881336f538033f9f7cc2a1308abd437aee19c7d88f090fb8f1c7d",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_cone.zip"
+    },
+    {
+      "filename": "FS25_dron_agri.zip",
+      "size": 17407397,
+      "sha256": "4360b23a140c86e5e9522d6200839b671f299154c792a9bf461373b7c1675825",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_dron_agri.zip"
+    },
+    {
+      "filename": "FS25_exhaustExtension.zip",
+      "size": 885422,
+      "sha256": "f1595a84468ee621af4c6cb414ec2e3b0b51e1c122daca0775cfc52ac291c1da",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_exhaustExtension.zip"
+    },
+    {
+      "filename": "FS25_extendedVehicle.zip",
+      "size": 137041,
+      "sha256": "79a6c3acfbfcaf3441250f1e0ac34fbec1616d7d6b720a1b5e35b9c8c8a88d54",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_extendedVehicle.zip"
+    },
+    {
+      "filename": "FS25_fireworks.zip",
+      "size": 233158,
+      "sha256": "e3789be7513da664116e482f22bcfd89176d18fa9853085d6c025a259e39375e",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_fireworks.zip"
+    },
+    {
+      "filename": "FS25_flourproduction.zip",
+      "size": 19165841,
+      "sha256": "db20f05d1d67580fd6d36083c900a9a00a2c40b4ef86c3fe390f80c832dcd5e0",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_flourproduction.zip"
+    },
+    {
+      "filename": "FS25_fuelLevels.zip",
+      "size": 99607,
+      "sha256": "7997366650fcbf321acbadbc6888c45a3512a95699596ba2ca061ccbf3c0945c",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_fuelLevels.zip"
+    },
+    {
+      "filename": "FS25_funktionswesten.zip",
+      "size": 20578097,
+      "sha256": "371cac075189ada60934293bba18066a54209238de238152681f779dc06f409d",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_funktionswesten.zip"
+    },
+    {
+      "filename": "FS25_germanVillageFireDepartment.zip",
+      "size": 31199718,
+      "sha256": "747a3cb7429869df19ad29b55fd2d28e352a6eb4e1195752e6f1232dd1c10155",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_germanVillageFireDepartment.zip"
+    },
+    {
+      "filename": "FS25_germanVillagePoliceStation.zip",
+      "size": 30599672,
+      "sha256": "66130d7362e46c5f89be3decbc20a58bbcb32482f4b73b8810d56bd21a9960ca",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_germanVillagePoliceStation.zip"
+    },
+    {
+      "filename": "FS25_itRunnerHD_pack.zip",
+      "size": 25351943,
+      "sha256": "f5132a2d79940db16f9472fd530229b6cc9758d4b691cd509cdff7a2abaf93e1",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_itRunnerHD_pack.zip"
+    },
+    {
+      "filename": "FS25_itRunnerPack.zip",
+      "size": 18494827,
+      "sha256": "84e999fb4964717d2c5179914f196880ff073a5cc751a803b3ee0cd4225d4d9d",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_itRunnerPack.zip"
+    },
+    {
+      "filename": "FS25_itRunnerPack_FMTV.zip",
+      "size": 18272948,
+      "sha256": "238e1950f6567abacf1df3baf56f5164b7e33eeb49c5addc76532a509cdc0d81",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_itRunnerPack_FMTV.zip"
+    },
+    {
+      "filename": "FS25_keepMeAdmin.zip",
+      "size": 104377,
+      "sha256": "a414a5f3c70098bfe285e762ffaa730e7a2f09e121473f72068ffe98518ad93d",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_keepMeAdmin.zip"
+    },
+    {
+      "filename": "FS25_largeWorkshop.zip",
+      "size": 11483129,
+      "sha256": "4115e883c713c22f3a7085224a35ef9cc4bda840f562144910b63fab63c0ff9f",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_largeWorkshop.zip"
+    },
+    {
+      "filename": "FS25_lizardHLF20.zip",
+      "size": 19706341,
+      "sha256": "43d43075fecac48223c3d28752cae118fb828a24254fbf1ced7d9abf8acc0ac9",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_lizardHLF20.zip"
+    },
+    {
+      "filename": "FS25_lizardUnifireLF8.zip",
+      "size": 24127134,
+      "sha256": "e1709495e2e75d8a37be66a63d1301ff3c0c93f943347b449d532051405f4569",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_lizardUnifireLF8.zip"
+    },
+    {
+      "filename": "FS25_lizardUnifireRW2.zip",
+      "size": 22939171,
+      "sha256": "4c92c36d675ec3941a7383744d39522808607935e418b86e53a58c84ba763aa4",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_lizardUnifireRW2.zip"
+    },
+    {
+      "filename": "FS25_lizard_l3000.zip",
+      "size": 315380,
+      "sha256": "82f33a5c0715d15bd9e88d7857f7e11578167692f7cec6451da4d321a90e8bce",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_lizard_l3000.zip"
+    },
+    {
+      "filename": "FS25_logisticCenter.zip",
+      "size": 24833507,
+      "sha256": "2696e0748788ba453f19b704c5f2fc7fdc1b1e2746219eed3f8d34cc9f215a88",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_logisticCenter.zip"
+    },
+    {
+      "filename": "FS25_maxDensityHeightTypesByMap.zip",
+      "size": 84427,
+      "sha256": "de5cf47b378d7de78d643512cfd74a1863050c19abcca8146493b580ce47c9c6",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_maxDensityHeightTypesByMap.zip"
+    },
+    {
+      "filename": "FS25_modernHouseSet.zip",
+      "size": 159382580,
+      "sha256": "4a4bc259895ef7f806041bd94961e3b05adc75700830824288a6f486b80cb451",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_modernHouseSet.zip"
+    },
+    {
+      "filename": "FS25_moreFarms.zip",
+      "size": 198454,
+      "sha256": "dd286d1dfbf88efc39e9a6320dbc584ce7cddabf8f227a0989ffa5f1d328609f",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_moreFarms.zip"
+    },
+    {
+      "filename": "FS25_moreMotorSounds.zip",
+      "size": 135402054,
+      "sha256": "5c0bc5e3e3187ddd2efcb36eb673ae85e598f106662ac20d0d023e01d4a36a6f",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_moreMotorSounds.zip"
+    },
+    {
+      "filename": "FS25_more_tree.zip",
+      "size": 124662,
+      "sha256": "a28819d946532124a7d93cf73b6641f99d0ea05e8722d424f5bef4a1766d4aa3",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_more_tree.zip"
+    },
+    {
+      "filename": "FS25_moveableMirrors.zip",
+      "size": 97817,
+      "sha256": "279551cc9c6043150c2ea6a726062e786d03acaeace09ae0b75bc8a41ba76dc2",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_moveableMirrors.zip"
+    },
+    {
+      "filename": "FS25_naturalWaterRiversAndPondsPack.zip",
+      "size": 2368580,
+      "sha256": "1ae8d8a477e84b8a835672a6d50dc745454b0ba2b51f3766798e6befa303c8a8",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_naturalWaterRiversAndPondsPack.zip"
+    },
+    {
+      "filename": "FS25_partyTent_Sebimodding.zip",
+      "size": 7159710,
+      "sha256": "2bdff94d743138e1b079e9f3592881e94b40dd75d3329f13ff74270cd935c609",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_partyTent_Sebimodding.zip"
+    },
+    {
+      "filename": "FS25_peoplepack.zip",
+      "size": 171987579,
+      "sha256": "34ae2c320fc350cc024b6e18fef761b7a19f818a9e90fc2736ca5f37e27efef9",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_peoplepack.zip"
+    },
+    {
+      "filename": "FS25_realClock.zip",
+      "size": 85330,
+      "sha256": "645d347aa61c238aa48d113b8cebc825b63a0369bdeb1094c6405d3c78dbb127",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_realClock.zip"
+    },
+    {
+      "filename": "FS25_realGPS.zip",
+      "size": 788605,
+      "sha256": "32993034e5433ad6324fb33b63e20c49f90590a21474264d8478e961d9523d8d",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_realGPS.zip"
+    },
+    {
+      "filename": "FS25_rememberPositions.zip",
+      "size": 72605,
+      "sha256": "727a9345c94fa6f7ec0507c8f069d47e41195e01dda74f3cdb109d97b05908b6",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_rememberPositions.zip"
+    },
+    {
+      "filename": "FS25_smallGermanFireDepartment.zip",
+      "size": 27652726,
+      "sha256": "43b07dc903bc06d2f1132ac3d805de94d72495f907eb8aa2bf20f759a7b81c9a",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_smallGermanFireDepartment.zip"
+    },
+    {
+      "filename": "FS25_soundExpansionMP.zip",
+      "size": 110276,
+      "sha256": "51c428cb12d975ee8b7cb555eea4d142b81b0574bc89de63e13c27999b0ca8f4",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_soundExpansionMP.zip"
+    },
+    {
+      "filename": "FS25_strobe_light.zip",
+      "size": 426976,
+      "sha256": "598ffd75cf23872b4b85c6d3f3477b266ed10e7508a458520a842e98e61aeb0d",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_strobe_light.zip"
+    },
+    {
+      "filename": "FS25_thunderstorm.zip",
+      "size": 4410984,
+      "sha256": "036f5c475bb93c797a484c351fadbd90f94bbfb256155995f1ffd8982401c4ff",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_thunderstorm.zip"
+    },
+    {
+      "filename": "FS25_trafficSafetyTrailer.zip",
+      "size": 7292897,
+      "sha256": "7bd2f88e5dda787b73a9de54f662c29d1e1a6c083fb484de8603845ff595dff2",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_trafficSafetyTrailer.zip"
+    },
+    {
+      "filename": "FS25_westen_Staff.zip",
+      "size": 13577575,
+      "sha256": "b74a672542a04ea30239111fb45cb87adb0cc43ce560cadc428df2aa3e743ff5",
+      "download_url": "http://46.4.129.30:20721/mods/FS25_westen_Staff.zip"
+    },
+    {
       "filename": "FSM_Hamm_H25i_FS25.zip",
       "size": 29455347,
       "sha256": "014f789cb26c8f17a2b33681feca152492c8d4e40c45019f868ca033bcdbf758",
       "download_url": "http://46.4.129.30:20721/mods/FSM_Hamm_H25i_FS25.zip"
+    },
+    {
+      "filename": "Feuerdorf_1_ELW.zip",
+      "size": 216190588,
+      "sha256": "ee03780cb66db3ca28b9c4711978b4978aac4a8e7e748d5ec9320866ac52fa65",
+      "download_url": "http://46.4.129.30:20721/mods/Feuerdorf_1_ELW.zip"
+    },
+    {
+      "filename": "Feuerdorf_Base.zip",
+      "size": 63949539,
+      "sha256": "6956dfde826c73d4b64c33d2b07e211ff10398ca6e66020d3312bf7ed4c2b459",
+      "download_url": "http://46.4.129.30:20721/mods/Feuerdorf_Base.zip"
+    },
+    {
+      "filename": "Feuerdorf_Handtools.zip",
+      "size": 3559481,
+      "sha256": "9673de7032fb5211651109d6a4ab9e349f9acffd6cee116fe8f1362bb31fb78a",
+      "download_url": "http://46.4.129.30:20721/mods/Feuerdorf_Handtools.zip"
+    },
+    {
+      "filename": "Feuerdorf_Interactive_Control.zip",
+      "size": 954020,
+      "sha256": "42901b7948da222d5237527a4fd4612c222271f4c1ecada2a962b05ab7fa94df",
+      "download_url": "http://46.4.129.30:20721/mods/Feuerdorf_Interactive_Control.zip"
+    },
+    {
+      "filename": "Feuerdorf_Rollcontainer_Pack.zip",
+      "size": 149054352,
+      "sha256": "88ab4cef3a8fe374d10eef6600a8143a747c4b2e04176af3b2ecb77563a99e15",
+      "download_url": "http://46.4.129.30:20721/mods/Feuerdorf_Rollcontainer_Pack.zip"
     },
     {
       "filename": "Hashy_2025_GSXR_1000.zip",
@@ -1151,6 +1145,12 @@
       "size": 120805331,
       "sha256": "ec588fe17c2a2674d499175b43f76f5897b277a6f4d9eecc534061d6a4c8f656",
       "download_url": "http://46.4.129.30:20721/mods/LS25_Sprinter_ELW_Feuerwehr_Tobi_THW.zip"
+    },
+    {
+      "filename": "fs25_placeabletreepack.zip",
+      "size": 56767582,
+      "sha256": "1e615bcee7e981c7ada6db935ce4d0363547bb32002d663d944ce027e256c7a8",
+      "download_url": "http://46.4.129.30:20721/mods/fs25_placeabletreepack.zip"
     }
   ]
 }
