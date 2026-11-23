@@ -27,8 +27,7 @@ if a.active_list:
     if missing:
         raise SystemExit('Aktive Mods ohne öffentlichen Link: ' + ', '.join(sorted(missing)))
     links = {name: url for name, url in links.items() if name in active}
-else:
-    print('ACHTUNG: Ohne --active-list werden alle öffentlich verlinkten ZIPs aufgenommen. Links allein beweisen nicht den Aktiv-Status.')
+print(f'{len(links)} aktive Mods mit Download-Link erkannt.')
 cache = Path(a.cache).resolve() if a.cache else None
 if cache:
     cache.mkdir(parents=True, exist_ok=True)

@@ -11,6 +11,14 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 
 app = FastAPI(title='Feuerdorf RP Auth API')
+
+@app.on_event('startup')
+def start_xrealm_sync():
+    if os.environ.get('MOD_SOURCE', 'local').lower() == 'xrealm' and os.environ.get('XREALM_AUTO_SYNC', 'true').lower() == 'true':
+        from auto_xrealm import start_worker
+        start_worker(os.environ.get('XREALM_MODS_URL', 'http://46.4.129.30:20721/mods.html'),
+                     Path(__file__).resolve().parent / 'xrealm_manifest.json')
+
 CLIENT_ID = os.environ.get('DISCORD_CLIENT_ID', '1529050206266589194')
 GUILD_ID = os.environ.get('DISCORD_GUILD_ID', '1528847512100671498')
 REQUIRED_ROLE = os.environ.get('DISCORD_REQUIRED_ROLE_ID', '1540374634166362145')  # mandatory authorization role
@@ -124,7 +132,13 @@ def manifest(authorization: str = Header(default='')):
         manifest_path = Path(__file__).resolve().parent / 'xrealm_manifest.json'
         if not manifest_path.is_file():
             raise HTTPException(503, 'xREALM-Manifest fehlt; bitte zuerst erstellen')
-        return json.loads(manifest_path.read_text(encoding='utf-8'))
+        try:
+            data = json.loads(manifest_path.read_text(encoding='utf-8'))
+            if not isinstance(data.get('mods'), list) or not data['mods']:
+                raise ValueError('Empty manifest')
+            return data
+        except (ValueError, OSError) as exc:
+            raise HTTPException(503, 'Kein gültiges xREALM-Manifest verfügbar') from exc
     return {'mods': [metadata(p) for p in mod_files()]}
 
 
@@ -173,3 +187,12 @@ def download(filename: str, request: Request, authorization: str = Header(defaul
         headers['Content-Range'] = f'bytes {start}-{size - 1}/{size}'
     return StreamingResponse(chunks(), status_code=206 if range_header else 200,
                              media_type='application/zip', headers=headers)
+
+
+@app.get('/mods/sync-status')
+def sync_status(authorization: str = Header(default='')):
+    authorized(authorization)
+    if os.environ.get('MOD_SOURCE', 'local').lower() != 'xrealm':
+        return {'mode': 'local'}
+    from auto_xrealm import state
+    return {'mode': 'xrealm', **state()}
