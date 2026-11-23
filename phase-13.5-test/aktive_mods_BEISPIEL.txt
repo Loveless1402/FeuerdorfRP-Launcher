@@ -1,3 +1,0 @@
-# Optional: Diese Datei in aktive_mods.txt umbenennen und mit den tatsächlich
-# aktiven ZIP-Dateinamen aus dem GIANTS-Webinterface füllen.
-# Ein ZIP-Dateiname pro Zeile, keine Pfade und keine Beschreibungen.
