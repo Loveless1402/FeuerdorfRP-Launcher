@@ -196,3 +196,24 @@ def sync_status(authorization: str = Header(default='')):
         return {'mode': 'local'}
     from auto_xrealm import state
     return {'mode': 'xrealm', **state()}
+
+@app.get('/health/sync')
+def public_sync_health():
+    """Öffentliche Diagnose ohne Zugangsdaten oder Mod-Download-Links."""
+    if os.environ.get('MOD_SOURCE', 'local').lower() != 'xrealm':
+        return {'mode': 'local', 'auto_sync': False}
+
+    from auto_xrealm import state
+    current = state()
+
+    return {
+        'mode': 'xrealm',
+        'auto_sync': os.environ.get(
+            'XREALM_AUTO_SYNC', 'true'
+        ).lower() == 'true',
+        'running': current.get('running'),
+        'active_count': current.get('active_count'),
+        'last_success': current.get('last_success'),
+        'has_error': current.get('last_error') is not None
+    }
+
